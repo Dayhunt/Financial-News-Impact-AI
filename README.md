@@ -1,4 +1,4 @@
-# MarketSense-AI
+# Financial News Impact AI
 
 An AI-powered **multi-agent system** that automatically scrapes financial news, processes it using NLP, identifies company mentions, fetches real‑time stock prices, and predicts the impact of news on market movement.
 
